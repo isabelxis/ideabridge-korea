@@ -1,2 +1,1 @@
-# ideabridge-korea
-Connecting ideas, building bridges, creating innovation
+project ideabridge-korea 
