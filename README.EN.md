@@ -91,14 +91,16 @@ ideabridge-korea/
 ```
 
 ## 🔐 Authentication (MVP)
+```bash
 The current MVP version uses a simple authentication system with LocalStorage.
 
 Demo Accounts
 Problem Owner: owner@example.com / Password: password (minimum 6 characters)
 IT Professional: pro@example.com / Password: password (minimum 6 characters)
 Or you can register a new account.
-
+```
 ## 🎯 Main Pages
+```bash
 Home Page (/)
 Platform introduction
 Feature overview
@@ -122,7 +124,7 @@ Profile (/profile)
 Edit user information
 Manage tech stack (for IT professionals)
 Update bio
-
+```
 ## 🌐 Language Support
 The platform offers complete support in Korean (한국어) and English (English), with language switching available through the language selector in the navigation bar. All UI text and design follow Korean cultural and business practices.
 
@@ -133,15 +135,15 @@ Supported Languages
 Automatic language detection based on browser preferences is also available.
 
 ## 🔄 Future Development Plans
- Real database integration (currently using LocalStorage)
- Real authentication system (JWT, OAuth, etc.)
- File upload functionality
- Real-time notification system
- Chat/messaging feature
- Payment system integration
- Review and rating system
- Multi-language support (English, etc.)
- Admin dashboard
+
+ - Real database integration (currently using LocalStorage)
+ - Real authentication system (JWT, OAuth, etc.)
+ - File upload functionality
+ - Real-time notification system
+ - Chat/messaging feature
+ - Payment system integration
+ - Review and rating system
+ - Admin dashboard
 
 ## 📝 License
 This project is an MVP version.
