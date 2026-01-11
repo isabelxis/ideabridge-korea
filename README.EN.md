@@ -124,7 +124,13 @@ Manage tech stack (for IT professionals)
 Update bio
 
 ## 🌐 Language Support
-All UI text is provided in Korean, with design following Korean culture and business practices. English support is planned for future releases.
+The platform offers complete support in Korean (한국어) and English (English), with language switching available through the language selector in the navigation bar. All UI text and design follow Korean cultural and business practices.
+
+Supported Languages
+- 🇰🇷 Korean (한국어) - Fully implemented
+- 🇬🇧 English (English) - Fully implemented
+  
+Automatic language detection based on browser preferences is also available.
 
 ## 🔄 Future Development Plans
  Real database integration (currently using LocalStorage)
