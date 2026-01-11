@@ -66,7 +66,7 @@ npm start
 ```
 
 ## 📁 Project Structure
-
+```bash
 ideabridge-korea/
 ├── src/
 │   ├── app/                 # Next.js App Router pages
@@ -88,6 +88,7 @@ ideabridge-korea/
 │       └── index.ts
 ├── public/                  # Static files
 └── package.json
+```
 
 ## 🔐 Authentication (MVP)
 The current MVP version uses a simple authentication system with LocalStorage.
