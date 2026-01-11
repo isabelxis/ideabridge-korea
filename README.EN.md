@@ -24,7 +24,7 @@ IdeaBridge Korea is a digital platform that connects non-technical users with IT
 - ✅ View problem details and submit solutions
 - ✅ IT Professional dashboard
 - ✅ Profile management
-- ✅ Korean language UI support
+- ✅ Korean and Enghish language UI support
 - ✅ Responsive design
 
 ## 🛠️ Technology Stack
