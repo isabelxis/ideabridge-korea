@@ -63,7 +63,7 @@ npm run build
 npm start
 ```
 ## 📁 프로젝트 구조
-
+```bash
 ideabridge-korea/
 ├── src/
 │   ├── app/                 # Next.js App Router 페이지
@@ -85,7 +85,7 @@ ideabridge-korea/
 │       └── index.ts
 ├── public/                  # 정적 파일
 └── package.json
-
+```
 ## 🔐 인증 (MVP)
 현재 MVP 버전에서는 LocalStorage를 사용한 간단한 인증 시스템을 사용합니다.
 
